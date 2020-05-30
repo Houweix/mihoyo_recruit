@@ -13,6 +13,7 @@
 * 福利相关
 年度旅游、团队建设、不限量零食饮料、节日礼物等多种福利，天下没有免费的晚餐？米哈游就有！数不清的可爱猫咪和穿lo的美少女小姐姐们等着你~
 
-<iframe src="//player.bilibili.com/player.html?aid=95214121&bvid=BV1UE411N7bp&cid=162475420&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+![video](https://www.bilibili.com/video/av95214121)
 
 ![2020年5月30日更新](https://s1.ax1x.com/2020/05/30/tMuTJI.jpg)
